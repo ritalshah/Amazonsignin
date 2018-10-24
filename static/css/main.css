@@ -1,0 +1,9 @@
+.btn-primary{
+background-color: blanchedalmond;
+border-color: blanchedalmond;
+    
+}
+.btn-primary:hover {
+    background-color: wheat;
+    border-color: wheat;
+}
